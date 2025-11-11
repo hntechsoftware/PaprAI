@@ -1,0 +1,12 @@
+{
+  "daily_target": 3,
+  "progress": {
+    "2025-11-10": {
+      "papers_solved": 1
+    }
+  },
+  "editor": {
+    "color": "#d76a4a",
+    "thickness": 3
+  }
+}
