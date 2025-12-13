@@ -24,4 +24,4 @@ Main window:
 - Allows you to set daily completion target for papers
 - In the future: set up preparation schedule for week/month with notifications
 
-Developed by @hntechsoftware alongside Wali.
+Developed by [HNTech](https://www.github.com/hntechsoftware) alongside Wali.
