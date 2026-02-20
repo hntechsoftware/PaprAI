@@ -25,3 +25,4 @@ Main window:
 - In the future: set up preparation schedule for week/month with notifications
 
 Developed by [HNTech](https://www.github.com/hntechsoftware) alongside Wali.
+Future plan: To develop an ipadOS & Android Tab app based off this prototype, as Windows is not the most suitable device to be solving papers on!
