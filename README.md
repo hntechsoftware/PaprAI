@@ -1,7 +1,23 @@
-# PaprAI
-Rewriting Revision.
+<h1 align="center">PaprAI</h1>
+<h3 align="center">Rewriting Revision.</h3>
+<hr>
+
+<div align="center">
+<img src="Screenshots/1.png" alt="drawing" width="600"/>
+</div>
+<div align="center">
+<img src="Screenshots/2.png" alt="drawing" width="600"/>
+</div>
+<div align="center">
+<img src="Screenshots/3.png" alt="drawing" width="600"/>
+</div>
+<div align="center">
+<img src="Screenshots/4.png" alt="drawing" width="600"/>
+</div>
 
 *(Prototype App developed for the MRIS Hackathon 2025.1 and won 1st place).*
+
+
 
 PaprAI is a comprehensive study app that simplifies and streamlines the past-paper workflow.
 Features:
