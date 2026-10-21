@@ -15,7 +15,7 @@
 <img src="Screenshots/4.png" alt="drawing" width="600"/>
 </div>
 
-*(Prototype App developed for the MRIS Hackathon 2025.1 and won 1st place).*
+*(Prototype App developed for the MRIS Hackathon 2025, theme 'AI and Education',and won 1st place).*
 
 
 
@@ -39,6 +39,8 @@ Main window:
 - tracks paper completion to prevent doing same ones again 
 - Allows you to set daily completion target for papers
 - In the future: set up preparation schedule for week/month with notifications
+
+DISCLAIMER: This application is not a real fully functioning app, but rather a proof of concept prototype created for a hackathon.
 
 Developed by [HNTech](https://www.github.com/hntechsoftware) alongside Wali.
 Future plan: To develop an ipadOS & Android Tab app based off this prototype, as Windows is not the most suitable device to be solving papers on!
