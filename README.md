@@ -15,7 +15,7 @@
 <img src="Screenshots/4.png" alt="drawing" width="600"/>
 </div>
 
-*(Prototype App developed for the MRIS Hackathon 2025, theme 'AI and Education',and won 1st place).*
+*(Prototype App developed for the MRIS Hackathon 2025, theme 'AI and Education', and won 1st place).*
 
 
 
